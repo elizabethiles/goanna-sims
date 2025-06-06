@@ -1,2 +1,2 @@
 # goanna-sims
-Official site of the GOANNA Simulations Project 
+Official website of the GOANNA Simulations Project 
