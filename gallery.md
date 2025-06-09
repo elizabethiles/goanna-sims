@@ -16,12 +16,12 @@ blockquote {
 
 ## Gallery
 
-|[IsoB](./assets/images/A-IsoB_synthobs)|IsoB|
+|![IsoB](./assets/images/A-IsoB_synthobs)|IsoB|
 
 * * *
 
-||TideB|
+|![TideB](./assets/images/B-TideB_synthobs)|TideB|
 
 * * *
 
-||TideNC|
+|![TideNC](./assets/images/A-IsoB_synthobs)|TideNC|
