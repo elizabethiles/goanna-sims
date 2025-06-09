@@ -34,7 +34,7 @@ If you have a favourite galaxy to study that is not included in our sample or if
 
 * * *
 
-##Contact
+## Contact
 Please feel free to reach out via the github link in the menu or the following email (removing all spaces and using the appropriate special character). 
 
 e-mail: elizabeth . iles [at] sydney . edu . au
