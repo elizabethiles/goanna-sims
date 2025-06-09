@@ -16,7 +16,7 @@ blockquote {
 
 ## Gallery
 
-|![IsoB](./assets/images/A-IsoB_synthobs.png)|IsoB<br>NGC 4303|
+|![IsoB](./assets/images/A-IsoB_synthobs.png)|IsoB<br />NGC4303|
 
 * * *
 
