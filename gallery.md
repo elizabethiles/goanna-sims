@@ -22,8 +22,8 @@ table th:nth-of-type(2) {
 
 ## Gallery
 
-| IsoB (<a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.3899I/abstract">Iles et al, 2022</a>) :  an isolated barred galaxy |
-| Observed Target: NGC 4303 | 
+| IsoB (<a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.3899I/abstract">Iles et al, 2022</a>) :  an isolated barred galaxy ||
+| Observed Target: NGC 4303 || 
 |![IsoB](./assets/images/gallery/IsoB_aesthetic.png)| Observed Target: NGC 4303 |
 
 
