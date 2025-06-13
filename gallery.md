@@ -23,7 +23,7 @@ These simulations have been produced with the numerical smoothed particle hydrod
 
 * * *
 
-|![TideB](./assets/images/gallery/TideB_aesthetic.png)| **TideB** <br> a tidally-affected barred galaxy <br> Observed Target: NGC 3627 <br> in: <a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.3899I/abstract">Iles et al, 2022</a>,<br> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.2799I/abstract">Iles et al, 2024</a> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|![TideB](./assets/images/gallery/TideB_aesthetic.png)| **TideB** <br> a tidally-affected barred galaxy <br> Observed Target: NGC 3627 <br> in: <a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.3899I/abstract">Iles et al, 2022</a>,<br> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.2799I/abstract">Iles et al, 2024</a> <br> Interaction Strength (S) = 10% <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
 * * *
 
