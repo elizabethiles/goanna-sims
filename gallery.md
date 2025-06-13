@@ -16,7 +16,9 @@ blockquote {
 
 ## Gallery
 
-|![IsoB](./assets/images/A-IsoB_synthobs.png)|IsoB<br />NGC4303|
+| IsoB (<a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.3899I/abstract">Iles et al, 2022</a>) :  an isolated barred galaxy |
+| Observed Target: NGC 4303 | 
+|![IsoB](./assets/images/gallery/IsoB_aesthetic.png)|
 
 * * *
 
